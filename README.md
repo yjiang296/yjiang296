@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yjiang296
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently studying for my master's degree in College of Agricultural, SUN YAT-SEN UNIVERSITY.
+- 🌱 I’m currently studying for my master's degree in College of Agriculture and Biotechnology, SUN YAT-SEN UNIVERSITY.
 - 📫 You can reach me at yjiang22@dingtalk.com or wechat: yjiang_lecturenote 
 
 <!---
